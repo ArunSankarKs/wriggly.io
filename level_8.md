@@ -1,4 +1,5 @@
-// SPDX-License-Identifier: MIT
+```solidity
+//SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 contract StringStorage {
@@ -12,3 +13,4 @@ contract StringStorage {
         return storedString;
     }
 }
+```
